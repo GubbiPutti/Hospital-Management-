@@ -96,7 +96,11 @@
             "tsConfig": "tsconfig.spec.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+                {
+                  "input": "src/assets/Images",
+                  "output": "assets/Images"
+                }
             ],
             "styles": [
               "src/styles.css"
@@ -106,5 +110,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "1a3966c6-4782-4e85-8c5f-46d167d06616"
   }
 }

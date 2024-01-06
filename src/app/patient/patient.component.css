@@ -1,0 +1,18 @@
+.patient-form {
+    background-color: rgb(179, 125, 230);
+    padding: 10px;
+    margin: 100px 500px;
+}
+
+form{margin-left:30px; margin-bottom: 10px;text-align: justify;}
+
+.form-group{
+    padding: 8px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+  }
+input{margin-left: 4px;}
+h2{margin-left:60px;}
+button{margin-left: 140px;margin-top:4px;border-radius: 5px;}

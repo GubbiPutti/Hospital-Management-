@@ -1,0 +1,36 @@
+.doctor-form {
+    max-width: 400px;
+    margin: 50px 0px 0px 500px;
+    background-color: aquamarine;
+    border-radius: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+  }
+  
+  button:disabled {
+    background-color: #dddddd;
+    cursor: not-allowed;
+  }
+
+  
+  h2,form{margin-left: 20%;}
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  body{
+    background-color: rgb(126, 231, 143);
+  }

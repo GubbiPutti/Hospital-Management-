@@ -1,0 +1,11 @@
+
+.register-form {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+form{background-color: rgb(129, 212, 212);}
+button{border-radius: 50px;color: black;}
+button:hover {background-color: rgb(105, 105, 234);color: white;}

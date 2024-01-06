@@ -1,0 +1,52 @@
+.nav-bar{
+    background-color: rgb(173, 107, 234);
+    padding:18px;
+    align-items: center;
+    text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../../assets/Images/woman-2141808_1280.jpg");
+    background-color: rgba(255, 255, 255, 0.1);
+    background-size: cover;
+}
+a{text-decoration: none;color: white;
+    padding: 5px;
+    margin:10px;
+  
+}
+
+nav a:hover{color: black;}
+
+footer {
+    background-color: rgb(173, 107, 234); /* Set your desired background color */
+    color: white; /* Set your desired text color */
+    padding: 10px; /* Adjust padding as needed */
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  .head {text-align: center;
+    /* border:1px solid black; */
+    border-radius: 5px;
+    padding:10px;
+    margin: 70px 550px 0px 150px;
+    border-radius: 20px;
+}
+
+.contact
+{
+    width: 100px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0px 0px 0px 1150px; /* Add margin for spacing */
+    border: 2px solid #333; /* Add a border for visibility */
+    border-radius: 100px; /* Optionally, add border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    float: left;
+}
+.contact:hover {
+    transform: scale(1.1); /* Scale the logo on hover for an interactive effect */
+}
+
